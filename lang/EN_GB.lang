@@ -1,0 +1,16 @@
+APP_NAME=Bat and Ball 2
+LIFES=Lifes
+SCORE=Score
+TIME=Time
+BUTTON_PLAY=Play
+BUTTON_OPTIONS=Options
+BUTTON_EXIT=Exit
+LEVEL_COMPLETE=Level Complete
+GAME_OVER=Game Over
+YOUR_SCORE=Your Score
+YOUR_TIME=Your Time
+MAIN_MENU=Main Menu
+SELECT_LEVEL=Select Level
+PLAY_AGAIN=Play Again
+NEXT_LEVEL=Next Level
+TRY_AGAIN=Try Again
